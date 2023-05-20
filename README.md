@@ -12,11 +12,11 @@
 
 ## How to use
 
-First, [download](https://github.com/Romanio0089/aebf-twrp/releases/latest) the aebf.bat file as well as [ADB (Android platform-tools)](https://developer.android.com/tools/releases/platform-tools).
+First, [download](https://github.com/Romanio0089/aebf-twrp/releases/latest) aebf with ADB (and [ADB](https://developer.android.com/tools/releases/platform-tools) if you downloaded aebf without ADB).
 
 Install ADB drivers for your device by : [15 seconds ADB Installer](https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/), [Google USB Driver](https://developer.android.com/studio/run/win-usb), or [Samsung Android USB Driver](https://developer.samsung.com/android-usb-driver).
 
-Place the aebf.bat file in the folder with the ADB executable (adb.exe).
+If you chose aebf without ADB, place the aebf.bat file in the folder with the ADB executable (adb.exe).
 
 Launch aebf.bat and select the PIN digit number, and the bruteforce starts.
 
